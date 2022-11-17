@@ -49,7 +49,7 @@ class Buttons(Download, Interfeace):
             else:
                 self.messages.setText('Вы ничего не выбрали')
         except:
-            self.message.setText('Возможно такого плейлиста нет')
+            self.messages.setText('Возможно такого плейлиста нет')
 
     def clickOnPlayPlaylist(self):
         try:
