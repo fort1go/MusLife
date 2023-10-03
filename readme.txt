@@ -1,54 +1,54 @@
-Руководство по использованию приложения
+Guide to using the application
 
-В приложении присутствуют три вкладки: "Поиск музыки", "Проигрывание музыки", "Плейлисты".
-Нажав на вкладку "Поиск музыки" можно сделать следующее:
-1. Найти песню
-    Для этого нужно ввести в поле ввода (расположенное в самом верху) название песни, затем
-    нажать на кнопку поиск. В результате, если у вас хорошее интернет соединение, посередине
-    у вас появятся название песен и их авторы, которые нашла наша программа.
-2. Скачать песню
-    Для этого нужно выполнить пункт 1, затем нажать на выбранную песню в списке песен, затем
-    нажать кнопку "Скачать". Подождав небольшое количество времени песня скачается, в правом
-    нижнем углу будет написано "Файл скачан"
-3. Добавить скачанную песню в плейлист
-    Для этого нужно выполнить пункт 1-2, а затем в поле "Введите название плейлиста" написать
-    название плейлиста, в который мы хотим добавить песню.
+The application has three tabs: “Search for music”, “Play music”, “Playlists”.
+By clicking on the "Music Search" tab, you can do the following:
+1. Find a song
+     To do this, enter the name of the song in the input field (located at the very top), then
+     click on the search button. As a result, if you have a good Internet connection, in the middle
+     you will see the names of the songs and their authors that our program found.
+2. Download the song
+     To do this, follow step 1, then click on the selected song in the list of songs, then
+     Click the "Download" button. After waiting a short amount of time, the song will download in the right
+     the bottom corner will say "File downloaded"
+3. Add the downloaded song to the playlist
+     To do this, you need to follow steps 1-2, and then write in the “Enter playlist name” field
+     the name of the playlist to which we want to add the song.
 
-Нажав на вкладку "Проигрывание музыки" можно сделать следующее:
-1. Проиграть песню
-    Для этого нужно нажать на кнопку "Проиграть песню", затем в открывшимся окне выбрать
-    выбрать музыку
-2. Проиграть плейлист
-    Для этого нужно нажать на кнопку "Проиграть плейлист", затем в открывшимся окне выбрать
-    плейлист и нажать кнопку "Выбрать"
-3. Изменить громкость звука
-    Для этого нужно изменить положения слайдера (в правой стороне вкладки)
-4. Поставить песню на паузу
-    Для этого нужно нажать на соответсвующую кнопку
-5. Убрать песню с паузы
-    Для этого нужно нажать на соответсвующую кнопку
-6. Прослушать песню сначала
-    Для этого нужно нажать на кнопку с круговой стрелкой
-7. Проигратю следующую/предыдущую песню в плейлисте
-    Для этого нужно нажать на кнопку >> или <<
-    >> - проиграет следующую
-    << - проиграет предыдущую
+By clicking on the "Music Playing" tab, you can do the following:
+1. Play a song
+     To do this, click on the “Play song” button, then select in the window that opens
+     choose music
+2. Play playlist
+     To do this, click on the “Play playlist” button, then select in the window that opens
+     playlist and press the "Select" button
+3. Change sound volume
+     To do this, you need to change the position of the slider (on the right side of the tab)
+4. Pause the song
+     To do this, click on the corresponding button
+5. Unpause a song
+     To do this, click on the corresponding button
+6. Listen to the song first
+     To do this, click on the circular arrow button
+7. Play the next/previous song in the playlist
+     To do this, click on the button >> or <<
+     >> - will lose the next one
+     << - will play the previous one
 
-Нажав на вкладку "Плейлисты" можно сделать следующее:
-1. Создать новый плейлист
-    Для этого нужно нажать на кнопку "Создать новый плейлист"
-    В открывшемся окне ввести название (не содержит пробелов и спец символов) нового
-    плейлиста и нажать на кнопку "Создать"
-2. Удалить плейлист
-    Для этого нужно выбрать плейлист (music нельзя удалить, это системный плейлист)
-    и нажать на кнопку "Удалить Плейлист"
-3. Открыть плейлист
-    Для этого нужно выбрать плейлист и нажать на кнопку "Открыть плейлист"
-    В появившемся окне можно добавить или удалить песню
-        1)Чтобы добавить песню нужно нажать кнопку "Выбрать песню", выбрать расположение до песни
-        затем ввести название песни (будет отображаться в плейлисте), ввести автора песни
-        (будет отображаться в плейлисте) и нажать кнопку "Добавить"
-        2)Чтобы удалить песню выбрать песню и нажать кнопку "Удалить", заметьте что в плейлисте
-        music нельзя удалить песню, так как данный плейлист системный, и в нем лежат все скачанные песни
+By clicking on the "Playlists" tab, you can do the following:
+1. Create a new playlist
+     To do this, click on the "Create a new playlist" button.
+     In the window that opens, enter the name (does not contain spaces or special characters) of the new
+     playlist and click on the "Create" button
+2. Delete a playlist
+     To do this, you need to select a playlist (music cannot be deleted, it is a system playlist)
+     and click on the "Delete Playlist" button
+3. Open playlist
+     To do this, select a playlist and click on the "Open playlist" button.
+     In the window that appears, you can add or remove a song
+         1) To add a song you need to click the "Select song" button, select the location before the song
+         then enter the name of the song (will be displayed in the playlist), enter the author of the song
+         (will be displayed in the playlist) and click the "Add" button
+         2) To delete a song, select the song and click the "Delete" button, note that in the playlist
+         music, you cannot delete a song, since this is a system playlist, and it contains all the downloaded songs
 
-Будем надеяться, что вы поняли как пользоваться приложением, желаем отлично провести время!
+Let's hope you understand how to use the app and have a great time!
